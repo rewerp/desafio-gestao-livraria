@@ -1,0 +1,6 @@
+@DesafioAPIGestaoLivraria_HostAddress = http://localhost:5290
+
+GET {{DesafioAPIGestaoLivraria_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,189 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\DevRepo\\CSharp\\RocketseatCSharp\\desafio-gestao-livraria\\DesafioAPIGestaoLivraria\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9DAF16FA-426D-4328-9420-149DA3F44712}|DesafioAPIGestaoLivraria.csproj|c:\\devrepo\\csharp\\rocketseatcsharp\\desafio-gestao-livraria\\desafioapigestaolivraria\\repositories\\livrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DAF16FA-426D-4328-9420-149DA3F44712}|DesafioAPIGestaoLivraria.csproj|solutionrelative:repositories\\livrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DAF16FA-426D-4328-9420-149DA3F44712}|DesafioAPIGestaoLivraria.csproj|c:\\devrepo\\csharp\\rocketseatcsharp\\desafio-gestao-livraria\\desafioapigestaolivraria\\requests\\requestupdatelivrojson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DAF16FA-426D-4328-9420-149DA3F44712}|DesafioAPIGestaoLivraria.csproj|solutionrelative:requests\\requestupdatelivrojson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DAF16FA-426D-4328-9420-149DA3F44712}|DesafioAPIGestaoLivraria.csproj|c:\\devrepo\\csharp\\rocketseatcsharp\\desafio-gestao-livraria\\desafioapigestaolivraria\\services\\livroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DAF16FA-426D-4328-9420-149DA3F44712}|DesafioAPIGestaoLivraria.csproj|solutionrelative:services\\livroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DAF16FA-426D-4328-9420-149DA3F44712}|DesafioAPIGestaoLivraria.csproj|c:\\devrepo\\csharp\\rocketseatcsharp\\desafio-gestao-livraria\\desafioapigestaolivraria\\controllers\\livrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DAF16FA-426D-4328-9420-149DA3F44712}|DesafioAPIGestaoLivraria.csproj|solutionrelative:controllers\\livrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DAF16FA-426D-4328-9420-149DA3F44712}|DesafioAPIGestaoLivraria.csproj|c:\\devrepo\\csharp\\rocketseatcsharp\\desafio-gestao-livraria\\desafioapigestaolivraria\\requests\\requestcreatelivrojson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DAF16FA-426D-4328-9420-149DA3F44712}|DesafioAPIGestaoLivraria.csproj|solutionrelative:requests\\requestcreatelivrojson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DAF16FA-426D-4328-9420-149DA3F44712}|DesafioAPIGestaoLivraria.csproj|c:\\devrepo\\csharp\\rocketseatcsharp\\desafio-gestao-livraria\\desafioapigestaolivraria\\entities\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DAF16FA-426D-4328-9420-149DA3F44712}|DesafioAPIGestaoLivraria.csproj|solutionrelative:entities\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DAF16FA-426D-4328-9420-149DA3F44712}|DesafioAPIGestaoLivraria.csproj|c:\\devrepo\\csharp\\rocketseatcsharp\\desafio-gestao-livraria\\desafioapigestaolivraria\\responses\\responselivrojson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DAF16FA-426D-4328-9420-149DA3F44712}|DesafioAPIGestaoLivraria.csproj|solutionrelative:responses\\responselivrojson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DAF16FA-426D-4328-9420-149DA3F44712}|DesafioAPIGestaoLivraria.csproj|c:\\devrepo\\csharp\\rocketseatcsharp\\desafio-gestao-livraria\\desafioapigestaolivraria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DAF16FA-426D-4328-9420-149DA3F44712}|DesafioAPIGestaoLivraria.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Livro.cs",
+              "DocumentMoniker": "C:\\DevRepo\\CSharp\\RocketseatCSharp\\desafio-gestao-livraria\\DesafioAPIGestaoLivraria\\Entities\\Livro.cs",
+              "RelativeDocumentMoniker": "Entities\\Livro.cs",
+              "ToolTip": "C:\\DevRepo\\CSharp\\RocketseatCSharp\\desafio-gestao-livraria\\DesafioAPIGestaoLivraria\\Entities\\Livro.cs",
+              "RelativeToolTip": "Entities\\Livro.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T20:03:22.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LivroService.cs",
+              "DocumentMoniker": "C:\\DevRepo\\CSharp\\RocketseatCSharp\\desafio-gestao-livraria\\DesafioAPIGestaoLivraria\\Services\\LivroService.cs",
+              "RelativeDocumentMoniker": "Services\\LivroService.cs",
+              "ToolTip": "C:\\DevRepo\\CSharp\\RocketseatCSharp\\desafio-gestao-livraria\\DesafioAPIGestaoLivraria\\Services\\LivroService.cs",
+              "RelativeToolTip": "Services\\LivroService.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwBoAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T19:40:01.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LivroRepository.cs",
+              "DocumentMoniker": "C:\\DevRepo\\CSharp\\RocketseatCSharp\\desafio-gestao-livraria\\DesafioAPIGestaoLivraria\\Repositories\\LivroRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\LivroRepository.cs",
+              "ToolTip": "C:\\DevRepo\\CSharp\\RocketseatCSharp\\desafio-gestao-livraria\\DesafioAPIGestaoLivraria\\Repositories\\LivroRepository.cs",
+              "RelativeToolTip": "Repositories\\LivroRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T19:29:24.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RequestUpdateLivroJson.cs",
+              "DocumentMoniker": "C:\\DevRepo\\CSharp\\RocketseatCSharp\\desafio-gestao-livraria\\DesafioAPIGestaoLivraria\\Requests\\RequestUpdateLivroJson.cs",
+              "RelativeDocumentMoniker": "Requests\\RequestUpdateLivroJson.cs",
+              "ToolTip": "C:\\DevRepo\\CSharp\\RocketseatCSharp\\desafio-gestao-livraria\\DesafioAPIGestaoLivraria\\Requests\\RequestUpdateLivroJson.cs",
+              "RelativeToolTip": "Requests\\RequestUpdateLivroJson.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T18:34:30.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RequestCreateLivroJson.cs",
+              "DocumentMoniker": "C:\\DevRepo\\CSharp\\RocketseatCSharp\\desafio-gestao-livraria\\DesafioAPIGestaoLivraria\\Requests\\RequestCreateLivroJson.cs",
+              "RelativeDocumentMoniker": "Requests\\RequestCreateLivroJson.cs",
+              "ToolTip": "C:\\DevRepo\\CSharp\\RocketseatCSharp\\desafio-gestao-livraria\\DesafioAPIGestaoLivraria\\Requests\\RequestCreateLivroJson.cs",
+              "RelativeToolTip": "Requests\\RequestCreateLivroJson.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T18:32:59.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ResponseLivroJson.cs",
+              "DocumentMoniker": "C:\\DevRepo\\CSharp\\RocketseatCSharp\\desafio-gestao-livraria\\DesafioAPIGestaoLivraria\\Responses\\ResponseLivroJson.cs",
+              "RelativeDocumentMoniker": "Responses\\ResponseLivroJson.cs",
+              "ToolTip": "C:\\DevRepo\\CSharp\\RocketseatCSharp\\desafio-gestao-livraria\\DesafioAPIGestaoLivraria\\Responses\\ResponseLivroJson.cs",
+              "RelativeToolTip": "Responses\\ResponseLivroJson.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T18:23:51.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LivroController.cs",
+              "DocumentMoniker": "C:\\DevRepo\\CSharp\\RocketseatCSharp\\desafio-gestao-livraria\\DesafioAPIGestaoLivraria\\Controllers\\LivroController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LivroController.cs",
+              "ToolTip": "C:\\DevRepo\\CSharp\\RocketseatCSharp\\desafio-gestao-livraria\\DesafioAPIGestaoLivraria\\Controllers\\LivroController.cs",
+              "RelativeToolTip": "Controllers\\LivroController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEMAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T18:22:00.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\DevRepo\\CSharp\\RocketseatCSharp\\desafio-gestao-livraria\\DesafioAPIGestaoLivraria\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\DevRepo\\CSharp\\RocketseatCSharp\\desafio-gestao-livraria\\DesafioAPIGestaoLivraria\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T18:21:31.611Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
